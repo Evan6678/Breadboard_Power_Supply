@@ -1,0 +1,6 @@
+.DS_Store
+BreadBoardPowerSupplyPcbGerbers/*
+*.zip
+fp-info-cache
+fp-lib-table
+Sym-lib-table
